@@ -6,7 +6,7 @@ This project is from the Udemy course. Here I opened spring boot project and sel
 
 clone the relevant project. (You will receive a link from our repo here)
 
-` git clone https://github.com/kaleliguray/kodluyoruzilkrepo.git `
+` git clone https://github.com/kaleliguray/spring-crm-rest-security-example.git `
 
 
 ## Usage
