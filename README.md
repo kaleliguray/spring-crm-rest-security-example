@@ -24,7 +24,7 @@ code .
 
 ## Contributing
 
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Pull request are accepted. For large purchases, please open a topic to discuss first.
 
 
 
