@@ -41,12 +41,14 @@
 			<version>${springframework.version}</version>
 		</dependency>
 
-		<!-- Add Jackson for JSON converters -->
+		<!-- 
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
 			<version>2.9.5</version>
 		</dependency>
+
+		Add Jackson for JSON converters -->
 
 		<!-- Spring Security -->
 		<!-- spring-security-web and spring-security-config -->
